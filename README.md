@@ -12,14 +12,7 @@ Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** e estou 
 - **Back-end:** Spring Boot.
 - **Banco de Dados:** MySQL / SQL Server.
 - **Ferramentas:** Git, GitHub.
-
-### 📁 Projeto em Destaque:
-**[ETP Systems](https://github.com/[SEU-USUARIO]/[NOME-DO-REPOSITORIO-DO-PROJETO])**
-*Sistema de treinamento desenvolvido para o contexto do Banco do Brasil.*
-- Implementação de lógica de negócio em **Java / Spring Boot**.
-- Modelagem de dados com **SQL**.
-- Prototipação em Figma com foco em experiência do usuário.
-
+  
 ---
 
 ### 📫 Como me encontrar:
